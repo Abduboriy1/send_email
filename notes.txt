@@ -1,0 +1,11 @@
+https://developers.google.com/identity/protocols/oauth2/javascript-implicit-flow
+
+
+http://localhost:3000/#state=pass-through%20value&access_token=ya29.a0AWY7Ckm6p6-2eff86tjWtl0H_CXsH1TSJ8mVEpVh0U1mci4cv0gNwqzq9UegOEA8tawBgOoDoG2d8-psbpJcoWp-Y2Db7TqTHLclwvdEQMnaE6ScDppzstQjOknDyftAiT5NyCeBuquEw16xzwMcbei4FPxTaCgYKAVoSARASFQG1tDrpkWzksH9Yq-_2iCCvJYSKJQ0163
+
+
+
+
+
+
+&token_type=Bearer&expires_in=3599&scope=email%20profile%20openid%20https://www.googleapis.com/auth/drive.metadata.readonly%20https://mail.google.com/%20https://www.googleapis.com/auth/userinfo.email%20https://www.googleapis.com/auth/userinfo.profile&authuser=0&prompt=consent
